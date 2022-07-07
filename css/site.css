@@ -1,0 +1,13 @@
+body {
+    background: rgb(7,131,200);
+    background: radial-gradient(circle, rgb(6, 114, 172) 75%, rgba(30,198,199,1) 100%);
+}
+
+h1,
+label {
+    color: rgb(6, 6, 35);
+}
+
+.btn-dark {
+    background-color: rgb(6, 6, 35);
+}
